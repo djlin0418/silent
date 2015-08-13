@@ -48,10 +48,10 @@
             <EditText
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:inputType="textPassword"
                 android:ems="10"
                 android:id="@+id/password_input"
-                android:hint="password"
-                android:textColorHint="@color/ripple_material_dark"/>
+                />
 
         </LinearLayout>
 
